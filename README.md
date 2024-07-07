@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Ruben Rehal
 
+https://github.com/rubenreh/rubenreh/blob/main/RubenRehal.png?raw=true
+
 I'm a Computer Engineering student at the University of Waterloo, with a passion for technology and innovation. Currently, I'm an Engineering Ambassador at my university and have accumulated diverse experiences through various projects and professional roles. Below is a brief overview of my skills, projects, and experiences.
 
 ## 🎓 Education
