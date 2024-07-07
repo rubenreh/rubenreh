@@ -12,21 +12,12 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
   *Red Leaf IT Systems* (May 2024 - Present)  
   Responsibilities: UI review and enhancement, technology review, market analysis, and launch strategy development.
 
-- **Retail Clerk and Sales**  
-  *Costco Wholesale* (May 2023 - Dec 2023)
-
-- **Front End Clerk**  
-  *Tim Hortons* (Dec 2021 - Nov 2022)
-
 ## 🔧 Technical Skills
 - **Programming Languages:**  
-  C++ (Advanced), Java (Advanced), Python (Intermediate), VHDL
+  C++ (Advanced), Java (Advanced), Python (Intermediate), VHDL (Intermediate)
 
 - **Software/Hardware:**  
   Solidworks, AutoCAD, Inventor, Windows, Linux, PCB Design, Arduino
-
-- **Machining:**  
-  Metal Lathes, Milling Machines, CNC and Manual Machining, CNC Plasma Cutter, Welding (GMAW)
 
 ## 🚀 Projects
 - **Smart Hydration Assistant**  
@@ -37,9 +28,6 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
 
 - **Automated Garbage Can**  
   Created an automated garbage can using Arduino, servo motor, and ultrasonic sensor to assist people with disabilities.
-
-- **TicTacToe Game**  
-  Developed a C++ TicTacToe game in Visual Studio Code as an early practice project.
 
 ## 🌟 Leadership
 - **Engineering Ambassador**  
