@@ -22,14 +22,14 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
   Solidworks, AutoCAD, Inventor, Windows, Linux, PCB Design, Arduino
 
 ## 🚀 Projects
-- **Smart Hydration Assistant**  
-  Developed a hydration tracking system to promote healthy habits.
+- **Calorify**  
+  Developed a comprehensive application designed to help users manage their dietary intake by leveraging advanced techniques in machine vision and data structures and algorithms.
 
 - **FitForge**  
   Personal fitness project integrating software and hardware for performance tracking.
 
-- **Automated Garbage Can**  
-  Created an automated garbage can using Arduino, servo motor, and ultrasonic sensor to assist people with disabilities.
+- **Hand Hero**  
+  An assistive technology project aimed at enhancing accessibility for individuals with disabilities through intuitive hand gestures.
 
 ## 🌟 Leadership
 - **Engineering Ambassador**  
