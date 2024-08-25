@@ -10,7 +10,7 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
   **Awards:** Jack and Mary Burnett Scholarship, President's Scholarship, Academic Achievement Awards
 
 ## 💼 Professional Experience
-- **Product Management Intern**  
+- **Product Management Engineering Intern**  
   *Red Leaf IT Systems* (May 2024 - Present)  
   Responsibilities: UI review and enhancement, software development, technology review, market analysis, and launch strategy development.
 
