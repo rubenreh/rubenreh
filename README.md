@@ -36,7 +36,7 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
   *University of Waterloo* (Sep 2023 - Present)
 
 - **Midnight Sun Solar Vehicle Engineering Team**  
-  *Hardware Team Member* (Sep 2023 - Present)
+  *Hardware Team Member* (Sep 2023 - April 2024)
 
 ## 📫 Let's Connect
 - **Email:** [r2rehal@uwaterloo.ca](mailto:r2rehal@uwaterloo.ca)
