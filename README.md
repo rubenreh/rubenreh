@@ -16,7 +16,7 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
 
 ## 🔧 Technical Skills
 - **Programming Languages:**  
-  C++ (Advanced), Java (Advanced), Python (Intermediate), VHDL (Intermediate)
+  C++ (Advanced), Java (Advanced), Python (Advanced), VHDL (Intermediate)
 
 - **Software/Hardware:**  
   Solidworks, AutoCAD, Inventor, Windows, Linux, PCB Design, Arduino
