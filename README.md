@@ -11,7 +11,7 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
 
 ## 💼 Professional Experience
 - **Product Management Engineering Intern**  
-  *Red Leaf IT Systems* (May 2024 - Present)  
+  *Red Leaf IT Systems* (May 2024 - August 2024)  
   Responsibilities: UI review and enhancement, software development, technology review, market analysis, and launch strategy development.
 
 ## 🔧 Technical Skills
