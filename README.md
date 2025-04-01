@@ -11,7 +11,7 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
 
 ## 💼 Professional Experience
 - **Lead Developer & AI Engineer**  
-  *Hatch Coding* (January 2024 - Present)  
+  *Hatch Coding* (Jan 2025 - April 2025)  
   - Developed highly optimized JavaScript and Python code for game development, reducing execution time by 40%.
   - Led efforts in securing a high-profile partnership with Chess.com, collaborating directly with CEO Erik Allebest to integrate AI-driven chess features.
   - Contributed to a strategic partnership deal with CrunchLabs as one of three lead developers.
