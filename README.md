@@ -10,6 +10,13 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
   **Awards:** Jack and Mary Burnett Scholarship, President's Scholarship, Academic Achievement Awards
 
 ## 💼 Professional Experience
+- **Product Engineer**
+  *Hatch Coding* (Jan 2025 - April 2025)
+  Developed highly optimized JavaScript and Python code for game development, reducing execution time by 40%.
+  Led efforts in securing a high-profile partnership with Chess.com, collaborating directly with CEO Erik Allebest to integrate AI-driven chess features.
+  Contributed to a strategic partnership deal with CrunchLabs as one of three lead developers.
+
+Designed and implemented AI algorithms that resulted in a 35% increase in user engagement across Hatch Coding’s platform.
 - **Product Management Engineering Intern**  
   *Red Leaf Systems* (May 2024 - August 2024)  
   Responsibilities: UI review and enhancement, software development, technology review, market analysis, and launch strategy development.
