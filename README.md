@@ -10,7 +10,7 @@ I'm a Computer Engineering student at the University of Waterloo, with a passion
   **Awards:** Jack and Mary Burnett Scholarship, President's Scholarship, Academic Achievement Awards
 
 ## 💼 Professional Experience
--**Firmware Engineer**
+- **Firmware Engineer**
   *Nokia* (Sep 2025 - )
 - **Lead Developer & AI Engineer**  
   *Hatch Coding* (Jan 2025 - April 2025)
