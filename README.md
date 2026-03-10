@@ -1,55 +1,47 @@
-![Ruben Rehal Banner](https://github.com/rubenreh/rubenreh/blob/main/RubenRehal.png?raw=true)
+# ![Ruben Rehal Banner](https://github.com/rubenreh/rubenreh/blob/main/RubenRehal.png?raw=true)
 
-# 👋 Hello, I'm Ruben Rehal
+# Hi, I'm Ruben Rehal
 
-I'm a Computer Engineering student at the University of Waterloo, with a passion for technology and innovation. Currently, I'm an Engineering Ambassador at my university and have accumulated diverse experiences through various projects and professional roles. Below is a brief overview of my skills, projects, and experiences.
+Computer Engineering student at the University of Waterloo focused on software engineering, machine learning, firmware, and backend infrastructure.
 
-## 🎓 Education
-- **University of Waterloo**  
-  BASc. in Computer Engineering (Sep 2023 - May 2028)  
-  **Awards:** Jack and Mary Burnett Scholarship, President's Scholarship, Academic Achievement Awards
+## Education
+- **University of Waterloo** — BASc. Computer Engineering (Sep 2023 - Apr 2028)
+- **Awards:** President's Scholarship, Burnett Scholarship
 
-## 💼 Professional Experience
-- **Firmware Engineer**
-  *Nokia* (Sep 2025 - )
-- **Lead Developer & AI Engineer**  
-  *Hatch Coding* (Jan 2025 - April 2025)
-  - Developed highly optimized JavaScript and Python code for game development, reducing execution time by 40%.
-  - Led efforts in securing a high-profile partnership with Chess.com, collaborating directly with CEO Erik Allebest to integrate AI-driven chess features.
-  - Contributed to a strategic partnership deal with CrunchLabs as one of three lead developers.
-  - Designed and implemented AI algorithms, increasing user engagement by 35% across Hatch Coding's platform.
+## Experience
+- **Founder, Talos AI** (Nov 2025 - Present)  
+  Built and scaled an AI automation platform as a solo founder across engineering, product, customer operations, and growth.
 
-- **Product Management Engineering Intern**  
-  *Red Leaf Systems* (May 2024 - August 2024)  
-  Responsibilities: UI review and enhancement, software development, technology review, market analysis, and launch strategy development.
+- **C++ Firmware Engineer (SDK), Nokia** (Sep 2025 - Dec 2025)  
+  Improved firmware verification throughput and reliability for optical-modem systems.
 
-## 🔧 Technical Skills
-- **Programming Languages:**  
-  C++ (Advanced), Java (Advanced), Python (Advanced), VHDL (Intermediate)
+- **Full Stack Developer, Hatch Coding** (Jan 2025 - Apr 2025)  
+  Built scalable app features and APIs that improved retention and runtime performance.
 
-- **Software/Hardware:**  
-  Solidworks, AutoCAD, Inventor, Windows, Linux, PCB Design, Arduino
+- **Backend Infrastructure Engineer, The Grey Cell Brief** (Jan 2025 - Feb 2025)  
+  Reduced API latency and improved deployment reliability with PostgreSQL, Redis, Kafka, and Docker.
 
-## 🚀 Projects
-- **Calorify**  
-  An application designed to help users manage their dietary intake by leveraging advanced techniques in machine vision and data structures and algorithms.
+- **Embedded Software Intern, Red Leaf IT Systems** (May 2024 - Aug 2024)  
+  Prototyped low-latency C++/Python IoT and edge-computing systems.
 
-- **FitForge**  
-  Personal fitness project integrating software and hardware for performance tracking.
+## Technical Skills
+- **Languages:** Python, C++, SQL, JavaScript, TypeScript, Java, Go, Rust, Bash
+- **Backend/Systems:** Node.js, FastAPI, PostgreSQL, Redis, Kafka, Docker, Kubernetes, gRPC
+- **ML/Data:** PyTorch, ETL pipelines, validation workflows, vector retrieval
 
-- **Hand Hero**  
-  An assistive technology project aimed at enhancing accessibility for individuals with disabilities through intuitive hand gestures.
+## Selected Projects
+- **Calorify** — Machine vision + data structures application for nutrition intelligence.
+- **Hand Hero** — Assistive gesture-recognition system with embedded device control.
+- **AI Chess Engine** — Neural-network evaluation integrated with classical search algorithms.
+- **Portfolio Website** — Interactive multi-page site with custom animations and responsive UI.
 
-## 🌟 Leadership
-- **Engineering Ambassador**  
-  *University of Waterloo* (Sep 2023 - Present)
+## Leadership
+- **Engineering Ambassador**, University of Waterloo (Sep 2023 - Present)
+- **Hardware Team Member**, Midnight Sun Solar Vehicle Engineering (Sep 2023 - Apr 2024)
 
-- **Midnight Sun Solar Vehicle Engineering Team**  
-  *Hardware Team Member* (Sep 2023 - April 2024)
-
-## 📫 Let's Connect
+## Connect
 - **Email:** [r2rehal@uwaterloo.ca](mailto:r2rehal@uwaterloo.ca)
 - **LinkedIn:** [linkedin.com/in/rubenrehal](https://www.linkedin.com/in/rubenrehal)
 - **Portfolio:** [rubenrehal.netlify.app](https://rubenrehal.netlify.app)
 
-Thank you for visiting my profile! I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out!
+Always open to strong SWE/ML opportunities and ambitious engineering teams.
