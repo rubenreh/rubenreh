@@ -15,7 +15,7 @@ Computer Engineering student at the University of Waterloo focused on software e
 - **Full Stack Developer, Hatch Coding** (Jan 2025 - Apr 2025)  
   Built scalable app features and APIs that improved retention and runtime performance.
 
-- **Backend Infrastructure Engineer, The Grey Cell Brief** (Jan 2025 - Feb 2025)  
+- **Backend Infrastructure Engineer, The Grey Cell Brief** (Jan 2025 - Feb 2026)  
   Reduced API latency and improved deployment reliability with PostgreSQL, Redis, Kafka, and Docker.
 
 - **Embedded Software Intern, Red Leaf IT Systems** (May 2024 - Aug 2024)  
