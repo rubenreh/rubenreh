@@ -40,4 +40,4 @@ Computer Engineering student at the University of Waterloo focused on software e
 - **LinkedIn:** [linkedin.com/in/rubenrehal](https://www.linkedin.com/in/rubenrehal)
 - **Portfolio:** [rubenrehal.netlify.app](https://rubenrehal.netlify.app)
 
-Always open to strong SWE/ML opportunities and ambitious engineering teams.
+Always open to new opportunities and ambitious engineering teams!
