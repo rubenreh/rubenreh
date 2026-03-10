@@ -1,17 +1,14 @@
 # ![Ruben Rehal Banner](https://github.com/rubenreh/rubenreh/blob/main/RubenRehal.png?raw=true)
 
-# Hi, I'm Ruben Rehal
+# 👋 Hello, I'm Ruben Rehal
 
 Computer Engineering student at the University of Waterloo focused on software engineering, machine learning, firmware, and backend infrastructure.
 
-## Education
+## 🎓 Education
 - **University of Waterloo** — BASc. Computer Engineering (Sep 2023 - Apr 2028)
 - **Awards:** President's Scholarship, Burnett Scholarship
 
-## Experience
-- **Founder, Talos AI** (Nov 2025 - Present)  
-  Built and scaled an AI automation platform as a solo founder across engineering, product, customer operations, and growth.
-
+## 💼 Experience
 - **C++ Firmware Engineer (SDK), Nokia** (Sep 2025 - Dec 2025)  
   Improved firmware verification throughput and reliability for optical-modem systems.
 
@@ -24,22 +21,21 @@ Computer Engineering student at the University of Waterloo focused on software e
 - **Embedded Software Intern, Red Leaf IT Systems** (May 2024 - Aug 2024)  
   Prototyped low-latency C++/Python IoT and edge-computing systems.
 
-## Technical Skills
+## 🔧 Technical Skills
 - **Languages:** Python, C++, SQL, JavaScript, TypeScript, Java, Go, Rust, Bash
 - **Backend/Systems:** Node.js, FastAPI, PostgreSQL, Redis, Kafka, Docker, Kubernetes, gRPC
 - **ML/Data:** PyTorch, ETL pipelines, validation workflows, vector retrieval
 
-## Selected Projects
-- **Calorify** — Machine vision + data structures application for nutrition intelligence.
-- **Hand Hero** — Assistive gesture-recognition system with embedded device control.
-- **AI Chess Engine** — Neural-network evaluation integrated with classical search algorithms.
-- **Portfolio Website** — Interactive multi-page site with custom animations and responsive UI.
+## 🚀 Selected Projects
+- **Chronos** — Distributed data system for anomaly detection and real-time processing.
+- **Orion** — High-performance C++ engine optimized for embedded and low-power targets.
+- **Midnight Sun Design Team** — Electrical and PCB systems work for solar racing vehicle development.
 
-## Leadership
+## 🌟 Leadership
 - **Engineering Ambassador**, University of Waterloo (Sep 2023 - Present)
 - **Hardware Team Member**, Midnight Sun Solar Vehicle Engineering (Sep 2023 - Apr 2024)
 
-## Connect
+## 📫 Connect
 - **Email:** [r2rehal@uwaterloo.ca](mailto:r2rehal@uwaterloo.ca)
 - **LinkedIn:** [linkedin.com/in/rubenrehal](https://www.linkedin.com/in/rubenrehal)
 - **Portfolio:** [rubenrehal.netlify.app](https://rubenrehal.netlify.app)
